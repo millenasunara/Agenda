@@ -2,7 +2,8 @@
 Esse projeto foi desenvolvido baseado em uma agenda, onde o usuário pode pesquiar pela letra inicial ou pelo primeiro e, até segundo número da agenda de contatos já criada.
 
 ![read me-img](https://github.com/millenasunara/Agenda/assets/148871283/515dd8b6-53f9-4630-886a-981b5365409a)
-Exemplificação dp terminal.
+
+Exemplificação do terminal.
 
 # Tecnologias utilizadas
 - Python 
